@@ -1,1 +1,3 @@
-"# owly-server" 
+# Owly Server
+
+Backend REST API of Owly Project
